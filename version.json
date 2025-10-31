@@ -1,5 +1,5 @@
 {
-  "latest_version": "4.4.0",
-  "download_url": "https://github.com/floorplanteamlead-del/urban-angle-toolbox/releases/latest",
-  "release_notes": "Bug fixes and new features added"
+  "latest_version": "4.5.0",
+  "download_url": "https://github.com/floorplanteamlead-del/urban-angle-toolbox/releases/download/v4.5.0/UrbanAngleToolbox-Installer-v4.4.0.exe",
+  "release_notes": "- Added Auto Update System\n- Fixed timer display issues\n- Improved performance"
 }
